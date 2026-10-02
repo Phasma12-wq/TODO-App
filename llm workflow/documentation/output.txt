@@ -1,0 +1,137 @@
+[H[2J[3JWelcome to the TODO List App
+<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): invalid option
+[H[2J[3J<list is empty>
+
+1. [A]dd
+2. [M]ark done
+3. [R]emove
+4. [E]xit
+
+Enter option (A,M,R,E): 
