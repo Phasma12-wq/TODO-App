@@ -9,14 +9,17 @@ def main():
     function_handler = todo_handler()
 
     app = TODO_app(menu_items, function_handler)
-    app.start()
+
+    try:
+        app.start()
+    except KeyboardInterrupt:
+            print("\nProcess interrupted by user.")
 
 if __name__ == '__main__':
     try:
         main()
     except KeyboardInterrupt:
         print("\nProcess interrupted by user.")
-
     finally:
         print("Exiting program.")
 
