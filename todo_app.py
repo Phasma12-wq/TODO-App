@@ -25,7 +25,7 @@ class TODO_app:
                 case 'R':
                     self.__remove()
                 case 'E':
-                    exit()
+                    return
                 case _:
                     print("invalid option")
             input('')
@@ -61,9 +61,3 @@ class TODO_app:
         output = self._handler.markAsDone(user_input)
         print(output)
         return
-    
-
-
-    #def add():
-    
-    #def remove():
